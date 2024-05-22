@@ -1,3 +1,5 @@
+it is an mobile screen website 
+open the link on Mobiles
 webLink : https://tindereffect.netlify.app/
 
 I'm thrilled to share a project I've been working on recently that has significantly boosted my technical skills: rebuilding the Tinder swipe feature! 🔥
